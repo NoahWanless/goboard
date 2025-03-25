@@ -1,1 +1,1 @@
-This is a project for school where i the game of Go
+This is a project for school where i made the game of Go
